@@ -1,0 +1,123 @@
+main {
+    border-bottom: 2px solid #DB2A52;
+}
+
+.center h1,
+p {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 25px 0 23px;
+}
+
+h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2em;
+}
+
+h1 {
+    color: #D91E48;
+    font-family: 'Satisfy', cursive;
+    font-size: 3em;
+}
+
+.center .item-A {
+    padding: 50px;
+}
+
+.item-A h1 {
+    margin-left: 20%;
+}
+
+.item-A {
+    display: flex;
+    margin-left: 0 auto;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container-A {
+    display: inline-block;
+    background-color: #F1F1F1;
+    padding-right: 20%;
+    text-align: center;
+    padding: 2.5%;
+}
+
+a {
+    text-decoration: none;
+    color: #DB2A52;
+}
+
+a>i {
+    font-size: x-large;
+}
+
+.container-A>h1 h2 {
+    padding: 50px;
+}
+
+.item-A .container-A>i {
+    padding-right: 10%;
+}
+
+.container-A>h1 {
+    color: #464648;
+}
+
+.item-A .second {
+    padding: 50px;
+}
+
+.second {
+    display: flex;
+    margin: 58px;
+}
+
+.container-B {
+    background-color: #F1F1F1;
+    padding-right: 20%;
+    text-align: center;
+    padding: 2.5%;
+}
+
+.second .third {
+    padding: 50px;
+}
+
+.third {
+    display: flex;
+    margin: 58px;
+}
+
+.container-C {
+    display: inline-block;
+    background-color: #F1F1F1;
+    padding-right: 20%;
+    text-align: center;
+    padding: 2.5%;
+}
+
+.button {
+    text-align: center;
+    background-color: #D91E48;
+    color: #ffffff;
+    padding: 10px;
+    width: 15%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.center {
+    text-align: center;
+}
+
+main .button {
+    margin: 5%;
+}
+
+ul>li {
+    list-style: none;
+    display: inline;
+}
